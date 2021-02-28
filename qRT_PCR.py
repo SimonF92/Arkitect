@@ -7,7 +7,7 @@ from scipy import stats
 from scipy.stats import f_oneway
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
 
-file='umod_qrtpcr_fake2.csv'
+file='Example_qRT_PCR.csv'
 
 title=file.rstrip('.csv')
 
